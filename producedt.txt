@@ -1,0 +1,5 @@
+comparator
+mobile 
+laptop 
+mouse
+keyborad
